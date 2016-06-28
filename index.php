@@ -101,7 +101,7 @@
 	
 		</div>
 								
-		<!-- Pied de Page-->
+		<!-- ->
         <?php include("includes/menu_pied_de_page.php");?>
         <!-- modifications AFEF -->
 
