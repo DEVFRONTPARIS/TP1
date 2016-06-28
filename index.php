@@ -107,6 +107,8 @@
 
   <script defer src="script.js"></script>
   <!-- You can create a js file and link it to your html doc. "defer" makes your script load last -->
+
+    <!-- J'ai fait une petite modification de bas de page-->
 </body>
 
 </html>
