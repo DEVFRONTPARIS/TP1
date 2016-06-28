@@ -103,6 +103,7 @@
 								
 		<!-- Pied de Page-->
         <?php include("includes/menu_pied_de_page.php");?>
+        <!-- modifications AFEF -->
 
   <script defer src="script.js"></script>
   <!-- You can create a js file and link it to your html doc. "defer" makes your script load last -->
